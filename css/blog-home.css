@@ -1,0 +1,41 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background: #ebebeb;
+}
+
+/* use id for main container because .container is used by multiple elements */
+#main-container {
+	margin-bottom: 80px
+}
+
+#h1-title, #h1-title:hover {
+	text-decoration: none;
+	color: black;
+	font-weight: 900;
+}
+
+/* used for the footer */
+.navbar-fixed-bottom {
+	background: #222222;
+	color: #9d9d9d;
+	min-height: 50px;
+	text-align: center;
+	padding-top: 15px;
+}
+
+/* registration heading */
+#reg-h1 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+/* pagination div */
+div.pagination-div {
+	text-align: center;
+}
