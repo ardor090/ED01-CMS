@@ -1,4 +1,4 @@
-#ED01-CMS
+# ED01-CMS
 ## CMS project from Udemy course
 
 ![home page](../assets/a.png?raw=true)
